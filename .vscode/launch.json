@@ -30,8 +30,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/33073/Desktop/CPP/chapter1",
-      "program": "c:/Users/33073/Desktop/CPP/chapter1/build/Debug/outDebug",
+      "cwd": "c:/Users/33073/Desktop/CPP",
+      "program": "c:/Users/33073/Desktop/CPP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
